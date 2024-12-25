@@ -4,3 +4,4 @@ hari pertama
 hari kedua
 hari ketiga
 selanjutnya
+beerikutnya
