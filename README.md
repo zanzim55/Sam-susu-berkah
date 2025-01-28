@@ -12,6 +12,7 @@ go
 a
 lf
 a
+a
 if
 c
 lfg
