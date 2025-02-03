@@ -5,5 +5,5 @@ hari kedua
 hari ketiga
 selanjutnya
 beerikutnya
-another one
+another onea
 new 
