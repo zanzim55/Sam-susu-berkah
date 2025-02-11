@@ -6,7 +6,7 @@ hari ketiga
 selanjutnya
 beerikutnya
 another onea
-new 
+new a
 a
 z
 aa
