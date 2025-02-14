@@ -6,10 +6,4 @@ hari ketiga
 selanjutnya
 beerikutnya
 another onea
-new a
-a
-z
-aaa
-a
-a
-a
+meta
