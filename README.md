@@ -5,7 +5,7 @@ hari kedua
 hari ketiga
 selanjutnya
 beerikutnya
-another onea
+another one
 meta
 a
 a
