@@ -1,4 +1,4 @@
-new Sam-susu-berkah
+anew Sam-susu-berkah
 this site just for testing only
 hari pertama 1
 hari kedua
@@ -7,6 +7,7 @@ selanjutnya
 beerikutnya
 another one
 meta
+a
 a
 a
 a
