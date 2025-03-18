@@ -7,20 +7,3 @@ selanjutnya
 beerikutnya
 another one
 meta
-ah
-a
-a
-a
-ba
-a
-a
-p
-a
-a
-a
-ad
-a
-a
-aa
-jbb
-a
