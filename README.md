@@ -8,6 +8,4 @@ beerikutnya
 another one
 meta
 as
-a
-a
-a
+
