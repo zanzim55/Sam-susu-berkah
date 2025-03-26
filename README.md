@@ -7,5 +7,5 @@ selanjutnya
 beerikutnya
 another one
 meta
-as
+as 
 
