@@ -7,9 +7,4 @@ selanjutnya
 beerikutnya
 another one
 meta
-aa
-a
- a
-aa
-a
 a
