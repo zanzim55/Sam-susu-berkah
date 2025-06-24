@@ -7,7 +7,7 @@ selanjutnya
 beerikutnya
 another one
 meta
-adz
+adza
 afaaas1256
 asda
 jia
