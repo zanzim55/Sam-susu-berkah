@@ -1,4 +1,4 @@
- sanew Sam-susu-berkah
+sanew Sam-susu-berkah
 this site just for testing only
 hari pertama 1
 hari kedua
@@ -16,7 +16,7 @@ aaa
 a1a
 aaaa
 aa4a
-qaaa
+aqaaa
 aaa
 aa1
 aaaaz
