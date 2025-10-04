@@ -6,6 +6,5 @@ aaaa
 a
  a
 z 
-as
-a
+asaa
 a
