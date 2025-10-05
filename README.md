@@ -4,7 +4,6 @@ a
 a a a
 aaaa
 a
- a
-z 
+ aaz 
 asaa
 a
