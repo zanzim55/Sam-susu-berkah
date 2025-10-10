@@ -5,6 +5,5 @@ a a a
 aaaa
 a
  aaz 
-asaa
-aa
+asaaaaa
 a
