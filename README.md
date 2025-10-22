@@ -1,8 +1,7 @@
 aasd
 asaa
 a
-a a a
-aaaa
+a a aaaaaa
 a
  aaz 
 asaaaaa
