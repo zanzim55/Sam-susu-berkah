@@ -3,8 +3,7 @@ asaa
 a
 a a aaaaaa
 a
- aaz 
-asaaaaa
+ aaz hasaaaaa
 a
 a1aaaaa
 a
